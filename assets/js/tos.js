@@ -13,5 +13,5 @@ function enableButton()
 }
 
 function buy() {
-    window.location.replace("list.html");
+    window.location.replace("servicios.html");
 }
